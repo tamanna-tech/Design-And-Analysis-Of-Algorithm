@@ -1,1 +1,1 @@
-# Design-And-Analysis-Of-Algorithm
+DESIGN AND ANALYSIS OF ALGORITHM
